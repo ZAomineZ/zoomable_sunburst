@@ -49,7 +49,7 @@ Click a node to zoom in, or the center to zoom out
 
 
 ```bash
-git clone https://github.com/blams/zoomable_sunburst.git
+git clone https://github.com/ZAomineZ/zoomable_sunburst.git
 ```
 
 2. Navigate to the project directory
